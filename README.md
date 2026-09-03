@@ -48,7 +48,6 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 │                         │
 └─────────────────────────┘
 ```
-
 </td>
 </tr>
 </table>
@@ -65,8 +64,7 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 
 ## Selected work
 
-> Os projetos são o centro deste perfil. Substitui os exemplos abaixo pelo trabalho que melhor representa a tua direção.
-
+> Os projetos são o centro deste perfil, logo selecionei aqueles com que melhor me identifico
 <table>
 <tr>
 <td width="50%" valign="top">
