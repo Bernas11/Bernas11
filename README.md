@@ -30,7 +30,7 @@
 
 Sou estudante e developer em formação, interessado em transformar ideias em **software útil, sistemas bem pensados e experiências digitais simples de usar**.
 
-Aprendo através da prática: construo, testo, falho, melhoro e tento compreender o que está por trás de cada ferramenta. Este perfil é o registo dessa evolução — não um inventário de buzzwords.
+Aprendo através da prática: construo, testo, falho, melhoro e tento compreender o que está por trás de cada ferramenta. Este perfil é o registo dessa evolução e (embora pareça) não só um inventário de buzzwords.
 
 > **Curiosidade para começar. Disciplina para construir. Ambição para ir mais longe.**
 
