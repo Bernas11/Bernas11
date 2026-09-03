@@ -25,7 +25,6 @@
 <table align="center">
 <tr>
 <td width="58%" valign="top">
-
 ## Building in public
 
 Sou estudante e developer em formação, interessado em transformar ideias em **software útil, sistemas bem pensados e experiências digitais simples de usar**.
