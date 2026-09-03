@@ -13,7 +13,7 @@ GitHub · LinkedIn · Portfolio
 
 
 
-About
+About me:
 
 Sou estudante e developer em formação, interessado em compreender como software, inteligência artificial e dados podem ser transformados em sistemas úteis, robustos e com impacto real.
 
