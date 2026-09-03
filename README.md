@@ -5,7 +5,7 @@
 <!-- Substitui [username] e [Your Name] antes de publicar -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:38bdf8&height=220&section=header&text=[Your%20Name]&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20AI%20%7C%20Data&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-# [Your Name]
+# Bernardo Duarte
 
 ### Engineering the future through software, artificial intelligence and data.
 
@@ -137,11 +137,9 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 
 ## Tools I use
 
-> Mantém apenas as tecnologias que realmente conheces ou utilizas. Os grupos abaixo são intencionalmente placeholders.
-
 | Languages | Web | AI & Data |
 | :--- | :--- | :--- |
-| `[Language 1]` · `[Language 2]` | `[Frontend]` · `[Backend]` | `[AI/ML tool]` · `[Data tool]` |
+| `Python` · `Javascript` | `[Frontend]` · `[Backend]` | `Claude, Manus & ChatGPT` · `[Data tool]` |
 
 | Tools | Infrastructure | Working habits |
 | :--- | :--- | :--- |
@@ -175,17 +173,10 @@ Se estiveres a construir algo interessante, a explorar tecnologia ou simplesment
 
 <div align="center">
 
-[GitHub](https://github.com/[username])   ·   [LinkedIn](https://www.linkedin.com/in/[username])   ·   [Portfolio](https://[your-domain])   ·   `[your-email@example.com]`
+[GitHub](https://github.com/Bernas11)   ·   [LinkedIn](https://www.linkedin.com/in/bernardo-duarte-7aa485325)   ·   [Portfolio](https://[your-domain])   ·   `[your-email@example.com]`
 
 <br /><br />
 
 <sub>Made with curiosity · Portugal · [Year]</sub>
 
 </div>
-
-<!--
-DESIGN NOTES
-- O header usa Capsule Render para criar um hero visual sem necessidade de assets próprios.
-- As tabelas funcionam como cards e mantêm compatibilidade com o GitHub.
-- Não adiciones estatísticas só porque existem: usa-as apenas quando reforçarem a narrativa do perfil.
--->
