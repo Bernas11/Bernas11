@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:38bdf8&height=220&section=header&text=[Bernardo%20Duarte]&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20AI%20%7C%20Data&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:38bdf8&height=220&section=header&text=Bernardo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20AI%20%7C%20Data&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 # Bernardo Duarte
 
