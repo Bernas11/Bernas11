@@ -12,8 +12,8 @@
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[username])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[username])
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernas11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-duarte-7aa485325)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://[your-domain])
 
 </div>
@@ -138,7 +138,7 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 
 | Languages | Web | AI & Data |
 | :--- | :--- | :--- |
-| `Python` · `Javascript` | `[Frontend]` · `[Backend]` | `Claude, Manus & ChatGPT` · `[Data tool]` |
+| `Python` · `Javascript` | `[Frontend]` · `[Backend]` | `AI-assisted development · LLMs · Prompt engineering` · `[Data tool]` |
 
 | Tools | Infrastructure | Working habits |
 | :--- | :--- | :--- |
@@ -176,6 +176,6 @@ Se estiveres a construir algo interessante, a explorar tecnologia ou simplesment
 
 <br /><br />
 
-<sub>Made with curiosity · Portugal · [Year]</sub>
+<sub>Made with curiosity · Portugal · 2026</sub>
 
 </div>
