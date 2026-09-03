@@ -48,6 +48,7 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 │                         │
 └─────────────────────────┘
 ```
+
 </td>
 </tr>
 </table>
