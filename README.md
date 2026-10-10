@@ -70,13 +70,13 @@ Aprendo através da prática: construo, testo, falho, melhoro e tento compreende
 <tr>
 <td width="50%" valign="top">
 
-### ◈ [Project Name]
+### ◈ Protótipo Ecossistema Digital da Juventude Popular
 
-[Uma descrição curta e concreta do problema que o projeto resolve ou da ideia que explora.]
+O JP-Completo é o protótipo de uma plataforma digital da Juventude Popular (JP), a organização política de juventude ligada ao CDS-PP. Reúne num único espaço, um portal e o site nacional, onde os jovens podem conhecer a organização, acompanhar notícias e iniciativas e descobrir formas de participação, e uma área de administração para a equipa gerir e atualizar os conteúdos. O objetivo é tornar a comunicação da JP mais centralizada, acessível e fácil de manter.
 
-`[Tech 1]` ` [Tech 2]` ` [Tech 3]`
+`JavaScript` `SQL - Databases` `React`
 
-[View repository →]([Repository URL])
+[View repository →](https://github.com/Bernas11/jp-completo)
 
 </td>
 <td width="50%" valign="top">
