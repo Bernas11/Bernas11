@@ -1,180 +1,52 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:38bdf8&height=220&section=header&text=Bernardo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20AI%20%7C%20Data&descAlignY=58&descSize=18" width="100%" alt="Header" />
+![Bernardo Duarte — software, AI and data](assets/profile-banner.svg)
 
 # Bernardo Duarte
 
-### Engineering the future through software, artificial intelligence and data.
+**Student developer · Portugal**
 
-**Student developer · Portugal 🇵🇹**
+Engineering the future through software, artificial intelligence and data.
 
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernas11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-duarte-7aa485325)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://[your-domain])
-
-</div>
-
-<br />
-
-<!-- ===================== QUICK INTRO ===================== -->
-
-<table align="center">
-<tr>
-<td width="58%" valign="top">
-  
-## Building in public
-
-Sou estudante e developer em formação, interessado em transformar ideias em **software útil, sistemas bem pensados e experiências digitais simples de usar**.
-
-Aprendo através da prática: construo, testo, falho, melhoro e tento compreender o que está por trás de cada ferramenta. Este perfil é o registo dessa evolução e (embora pareça) não só um inventário de buzzwords.
-
-> **Curiosidade para começar. Disciplina para construir. Ambição para ir mais longe.**
-
-</td>
-<td width="42%" valign="top">
-
-```text
-┌─ CURRENT DIRECTION ─────┐
-│                         │
-│  software engineering   │
-│  artificial intelligence│
-│  data & systems         │
-│  web development        │
-│  linux & automation     │
-│                         │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-`01` — EXPLORE    `02` — BUILD    `03` — LEARN    `04` — ITERATE
+[GitHub](https://github.com/Bernas11) · [LinkedIn](https://www.linkedin.com/in/bernardo-duarte-7aa485325)
 
 </div>
 
 ---
 
-## Selected work
+## About
 
-> Os projetos são o centro deste perfil, logo selecionei aqueles com que melhor me identifico
-<table>
-<tr>
-<td width="50%" valign="top">
+I learn by building: turning ideas into useful software, testing what I make, and improving it in public. My current interests include software engineering, web development, artificial intelligence and data systems.
 
-### ◈ Protótipo Ecossistema Digital da Juventude Popular
+## Selected projects
 
-O JP-Completo é o protótipo de uma plataforma digital da Juventude Popular (JP), a organização política de juventude ligada ao CDS-PP. Reúne num único espaço, um portal e o site nacional, onde os jovens podem conhecer a organização, acompanhar notícias e iniciativas e descobrir formas de participação, e uma área de administração para a equipa gerir e atualizar os conteúdos. O objetivo é tornar a comunicação da JP mais centralizada, acessível e fácil de manter.
+### [JP-Completo](https://github.com/Bernas11/jp-completo)
 
-`JavaScript` `SQL - Databases` `React`
+A **non-official portfolio prototype** exploring a digital ecosystem for Juventude Popular (JP), the youth organisation linked to CDS-PP. It brings together a national information site, an administration backoffice and a member portal. The prototype is not the organisation’s official website and should not receive real personal data.
 
-[View repository →](https://github.com/Bernas11/jp-completo)
+`TypeScript` · `Next.js` · `Supabase` · `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
+### [Mon-Blog](https://github.com/Bernas11/Mon-Blog)
 
-### ◇ [Project Name]
+A small French-language travel blog about a week in Provence, built as a static web page.
 
-[Uma descrição curta e concreta do problema que o projeto resolve ou da ideia que explora.]
+`HTML` · `CSS` · `JavaScript` · `French`
 
-`[Tech 1]` ` [Tech 2]` ` [Tech 3]`
+## Areas I’m exploring
 
-[View repository →]([Repository URL])
+- Building maintainable web applications
+- Artificial intelligence and data
+- Accessible, responsive user experiences
+- Testing, security and reliable software delivery
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Repositories
 
-### ◎ [Project Name]
-
-[Uma descrição curta e concreta do problema que o projeto resolve ou da ideia que explora.]
-
-`[Tech 1]` ` [Tech 2]` ` [Tech 3]`
-
-[View repository →]([Repository URL])
-
-</td>
-<td width="50%" valign="top">
-
-### ▣ [Project Name]
-
-[Uma descrição curta e concreta do problema que o projeto resolve ou da ideia que explora.]
-
-`[Tech 1]` ` [Tech 2]` ` [Tech 3]`
-
-[View repository →]([Repository URL])
-
-</td>
-</tr>
-</table>
-
-<!-- Adiciona uma terceira linha apenas se tiveres projetos fortes o suficiente para a preencher. -->
+Browse [all my public repositories](https://github.com/Bernas11?tab=repositories). This profile highlights projects with a clear purpose; other repositories may be experiments or works in progress.
 
 ---
 
-## Focus areas
-
-<table>
-<tr>
-<td align="center" width="20%"><strong>SOFTWARE</strong><br /><sub>Architecture<br />Quality<br />Systems</sub></td>
-<td align="center" width="20%"><strong>AI</strong><br /><sub>Models<br />LLMs<br />Experiments</sub></td>
-<td align="center" width="20%"><strong>DATA</strong><br /><sub>Analysis<br />Pipelines<br />Visualisation</sub></td>
-<td align="center" width="20%"><strong>WEB</strong><br /><sub>Products<br />APIs<br />Interfaces</sub></td>
-<td align="center" width="20%"><strong>SYSTEMS</strong><br /><sub>Linux<br />Automation<br />Self-hosting</sub></td>
-</tr>
-</table>
-
-## Tools I use
-
-| Languages | Web | AI & Data |
-| :--- | :--- | :--- |
-| `Python` · `Javascript` | `[Frontend]` · `[Backend]` | `AI-assisted development · LLMs · Prompt engineering` · `[Data tool]` |
-
-| Tools | Infrastructure | Working habits |
-| :--- | :--- | :--- |
-| `[Editor]` · `[Git tool]` | `[OS]` · `[Cloud]` | `Build` · `Measure` · `Improve` |
-
----
-
-## Now exploring
-
 <div align="center">
 
-| Learning | Building | Understanding |
-| :---: | :---: | :---: |
-| `[Topic / technology]` | `[Current project]` | `[Technical question]` |
-
-</div>
-
-<br />
-
-<div align="center">
-
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=[username]&bg_color=ffffff&color=1e3a5f&line=38bdf8&point=111827&area=true&hide_border=true&custom_title=Contribution%20activity)
-
-</div>
-
-<!-- ===================== CONTACT ===================== -->
-
-## Let's connect
-
-Se estiveres a construir algo interessante, a explorar tecnologia ou simplesmente quiseres trocar ideias, podes encontrar-me aqui:
-
-<div align="center">
-
-[GitHub](https://github.com/Bernas11)   ·   [LinkedIn](https://www.linkedin.com/in/bernardo-duarte-7aa485325)   ·   [Portfolio](https://[your-domain])   ·   `[your-email@example.com]`
-
-<br /><br />
-
-<sub>Made with curiosity · Portugal · 2026</sub>
+*Curiosity to start. Discipline to build. Ambition to keep learning.*
 
 </div>
